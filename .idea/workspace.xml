@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9c305ec-2b61-4700-a4f6-09e0cd143cd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/scala/com/knoldus/ProductMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/scala/com/knoldus/ProductMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/application_2.12-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/application/target/scala-2.12/application_2.12-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/knoldus/ProductMain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/application/target/scala-2.12/classes/com/knoldus/ProductMain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/application/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/application/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/application/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox.log" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aF7IdV9HogcFisFkePllqc7slq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hostel-Management-System-with-scala-Binding" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="quickstart-scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="parent [file:/home/knoldus/ProductChain/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="application [file:/home/knoldus/ProductChain/]" />
+                <option name="path" value="$PROJECT_DIR$/application" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-codegen [file:/home/knoldus/ProductChain/]" />
+                <option name="path" value="$PROJECT_DIR$/scala-codegen" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="quickstart-scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6343331371262" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="970929811" />
+        <entry key="$PROJECT_DIR$/project/Artifactory.scala" value="1814732667" />
+        <entry key="$PROJECT_DIR$/project/Versions.scala" value="4119680234" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3280644262" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/akkadispatcher-feature-source-1.1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/assignment-scala01-1.zip/assignment-scala01-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Music/kafka-assignment-json-feature-producer-consumer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickstart-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c305ec-2b61-4700-a4f6-09e0cd143cd6" name="Default Changelist" comment="" />
+      <created>1586319409415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586319409415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586346372638">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1586346372638" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586358078424">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586358078424" />
+  </component>
+</project>

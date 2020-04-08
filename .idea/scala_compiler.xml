@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="productchain_9521,quickstart-scala" />
+    <profile name="sbt 2" modules="application,scala-codegen">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Xsource:2.13" />
+        <parameter value="-Xfuture" />
+        <parameter value="-Xlint:_,-unused" />
+      </parameters>
+    </profile>
+  </component>
+</project>

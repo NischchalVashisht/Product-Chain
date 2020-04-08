@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application.iml" filepath="$PROJECT_DIR$/.idea/modules/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quickstart-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/quickstart-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quickstart-scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/quickstart-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-codegen.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-codegen.iml" />
+    </modules>
+  </component>
+</project>

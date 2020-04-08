@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.zipkin.java:zipkin:1.31.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.zipkin.java/zipkin/jars/zipkin-1.31.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.zipkin.java/zipkin/srcs/zipkin-1.31.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

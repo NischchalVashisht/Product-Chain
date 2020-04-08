@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: io.netty:netty-codec:4.1.35.Final:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.1.35.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

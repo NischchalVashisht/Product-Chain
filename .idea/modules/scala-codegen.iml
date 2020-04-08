@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="scala-codegen [file:/home/knoldus/ProductChain/]" external.linked.project.path="$MODULE_DIR$/../../scala-codegen" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../scala-codegen/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../scala-codegen/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../scala-codegen">
+      <sourceFolder url="file://$MODULE_DIR$/../../scala-codegen/src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../scala-codegen/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: com.daml.scala:bindings_2.12:100.13.55:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalaz:scalaz-core_2.12:7.2.24:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.codehaus.mojo:animal-sniffer-annotations:1.17:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.checkerframework:checker-compat-qual:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.perfmark:perfmark-api:0.16.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opencensus:opencensus-contrib-grpc-metrics:0.21.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.opencensus:opencensus-api:0.21.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-stub:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-protobuf-lite:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-protobuf:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-core:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-context:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.grpc:grpc-api:1.22.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.thesamet.scalapb:scalapb-runtime_2.12:0.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.thesamet.scalapb:scalapb-runtime-grpc_2.12:0.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.thesamet.scalapb:lenses_2.12:0.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:sourcecode_2.12:0.1.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:fastparse_2.12:2.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.protobuf:protobuf-java:3.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.j2objc:j2objc-annotations:1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:26.0-android:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.errorprone:error_prone_annotations:2.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.findbugs:jsr305:3.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.api.grpc:proto-google-common-protos:1.12.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.android:annotations:4.1.1.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.ghik:silencer-lib_2.12:1.3.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.digitalasset.ledger-api.grpc-definitions:ledger-api-scalapb_2.12:100.13.55:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.digitalasset:daml-lf-data_2.12:100.13.55:jar" level="project" />
+  </component>
+</module>

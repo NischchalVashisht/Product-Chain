@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.grpc:grpc-stub:1.22.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.grpc/grpc-stub/jars/grpc-stub-1.22.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.grpc/grpc-stub/srcs/grpc-stub-1.22.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

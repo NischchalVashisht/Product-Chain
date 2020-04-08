@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/ProductChain/application/target/scala-2.12/application_2.12-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/FutureUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/FutureUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/DecodeUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/DecodeUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/ClientUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/ClientUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/FutureUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/FutureUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/ClientUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/ClientUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/ProductMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/ProductMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/ProductMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/ProductMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/DecodeUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/DecodeUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/ProductMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/ProductChain/application/target/scala-2.12/classes/com/knoldus/ProductMain$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

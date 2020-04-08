@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/ProductChain/application/src/main/scala/com/knoldus/ProductMain.scala:91:19: _ is already defined as value _[0m
+[0m[[0m[31merror[0m] [0m[0m              val _ = logger.info(s"$issuer sent create command: $createCmd")[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/ProductChain/application/src/main/scala/com/knoldus/ProductMain.scala:108:35: _ is already defined as value _[0m
+[0m[[0m[31merror[0m] [0m[0m                              val _ = logger.info(s"$issuer transferred IOU: $iouContract to: $newOwner")[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

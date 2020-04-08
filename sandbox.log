@@ -1,0 +1,59 @@
+12:53:05.020 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:53:07.232 [sandbox-akka.actor.default-dispatcher-6] INFO  c.d.platform.apiserver.ApiServices - DAML LF Engine supports LF versions: 0, 0.dev, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.dev; Transaction versions: 1, 2, 3, 4, 5, 6, 7, 8, 9; Value versions: 1, 2, 3, 4, 5, 6, 7 (context: {participantId=sandbox-participant}) 
+12:53:07.813 [sandbox-akka.actor.default-dispatcher-6] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. (context: {participantId=sandbox-participant}) 
+12:53:07.833 [sandbox-akka.actor.default-dispatcher-6] INFO  c.d.platform.sandbox.SandboxServer - Initialized sandbox version 100.13.55 with ledger-id = sandbox-9368baad-3f5b-4fea-a942-69dcffa5dd2a, port = 6865, dar file = List(./.daml/dist/quickstart-0.0.1.dar), time mode = static time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = no 
+12:54:03.959 [sandbox-akka.actor.default-dispatcher-9] INFO  c.d.p.a.services.ApiCommandService - Shutting down Command Service (context: {participantId=sandbox-participant}) 
+12:54:03.961 [sandbox-akka.actor.default-dispatcher-9] INFO  c.d.p.a.services.tracking.TrackerMap - Shutting down 0 trackers (context: {participantId=sandbox-participant}) 
+12:54:04.309 [sandbox-akka.actor.default-dispatcher-18] WARN  akka.actor.CoordinatedShutdown - Could not addJvmShutdownHook, due to: Shutdown in progress akkaAddress=akka://sandbox, sourceThread=pool-1-thread-2, akkaSource=CoordinatedShutdown(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=07:24:04.291UTC
+12:55:17.813 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:55:20.198 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.platform.apiserver.ApiServices - DAML LF Engine supports LF versions: 0, 0.dev, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.dev; Transaction versions: 1, 2, 3, 4, 5, 6, 7, 8, 9; Value versions: 1, 2, 3, 4, 5, 6, 7 (context: {participantId=sandbox-participant}) 
+12:55:20.764 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. (context: {participantId=sandbox-participant}) 
+12:55:20.787 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.platform.sandbox.SandboxServer - Initialized sandbox version 100.13.55 with ledger-id = sandbox-b152f9a8-d0de-4755-9f52-a04352f23cb1, port = 6865, dar file = List(.daml/dist/Product-0.0.1.dar), time mode = static time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = no 
+17:33:17.470 [sandbox-akka.actor.default-dispatcher-465] INFO  c.d.p.a.services.ApiCommandService - Shutting down Command Service (context: {participantId=sandbox-participant}) 
+17:33:17.471 [sandbox-akka.actor.default-dispatcher-465] INFO  c.d.p.a.services.tracking.TrackerMap - Shutting down 0 trackers (context: {participantId=sandbox-participant}) 
+17:33:17.610 [sandbox-akka.actor.default-dispatcher-465] WARN  akka.actor.CoordinatedShutdown - Could not addJvmShutdownHook, due to: Shutdown in progress akkaAddress=akka://sandbox, sourceThread=pool-1-thread-7, akkaSource=CoordinatedShutdown(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=12:03:17.608UTC
+20:00:34.150 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+20:00:36.667 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.platform.apiserver.ApiServices - DAML LF Engine supports LF versions: 0, 0.dev, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.dev; Transaction versions: 1, 2, 3, 4, 5, 6, 7, 8, 9; Value versions: 1, 2, 3, 4, 5, 6, 7 (context: {participantId=sandbox-participant}) 
+20:00:37.857 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.p.a.services.ApiCommandService - Shutting down Command Service (context: {participantId=sandbox-participant}) 
+20:00:37.858 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.p.a.services.tracking.TrackerMap - Shutting down 0 trackers (context: {participantId=sandbox-participant}) 
+20:00:38.100 [main] ERROR c.d.resources.ProgramResource - Shutting down because of an initialization error. 
+com.digitalasset.platform.apiserver.LedgerApiServer$UnableToBind: LedgerApiServer was unable to bind to port 6865. User should terminate the process occupying the port, or choose a different one.
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:220)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:132)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:551)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1332)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:503)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:488)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:984)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:247)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:355)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:416)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:515)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:918)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+20:11:41.611 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+20:11:43.910 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.platform.apiserver.ApiServices - DAML LF Engine supports LF versions: 0, 0.dev, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.dev; Transaction versions: 1, 2, 3, 4, 5, 6, 7, 8, 9; Value versions: 1, 2, 3, 4, 5, 6, 7 (context: {participantId=sandbox-participant}) 
+20:11:44.385 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. (context: {participantId=sandbox-participant}) 
+20:11:44.405 [sandbox-akka.actor.default-dispatcher-4] INFO  c.d.platform.sandbox.SandboxServer - Initialized sandbox version 100.13.55 with ledger-id = sandbox-35ffdcb1-fcfe-46d9-af6e-5924acd52a29, port = 6865, dar file = List(.daml/dist/Product-0.0.1.dar), time mode = static time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = no 
+20:13:05.281 [sandbox-akka.actor.default-dispatcher-6] INFO  c.d.p.a.services.ApiCommandService - Shutting down Command Service (context: {participantId=sandbox-participant}) 
+20:13:05.282 [sandbox-akka.actor.default-dispatcher-6] INFO  c.d.p.a.services.tracking.TrackerMap - Shutting down 0 trackers (context: {participantId=sandbox-participant}) 
+20:13:05.352 [sandbox-akka.actor.default-dispatcher-14] WARN  akka.actor.CoordinatedShutdown - Could not addJvmShutdownHook, due to: Shutdown in progress akkaAddress=akka://sandbox, sourceThread=pool-1-thread-4, akkaSource=CoordinatedShutdown(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=14:43:05.350UTC
+20:17:34.824 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+20:17:37.205 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.platform.apiserver.ApiServices - DAML LF Engine supports LF versions: 0, 0.dev, 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.dev; Transaction versions: 1, 2, 3, 4, 5, 6, 7, 8, 9; Value versions: 1, 2, 3, 4, 5, 6, 7 (context: {participantId=sandbox-participant}) 
+20:17:37.940 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. (context: {participantId=sandbox-participant}) 
+20:17:37.975 [sandbox-akka.actor.default-dispatcher-5] INFO  c.d.platform.sandbox.SandboxServer - Initialized sandbox version 100.13.55 with ledger-id = sandbox-7b16b18d-1994-4da8-8e1c-1d9b8d7abbc0, port = 6865, dar file = List(.daml/dist/Product-0.0.1.dar), time mode = static time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = no 
+20:19:52.507 [sandbox-akka.actor.default-dispatcher-11] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#3:0). Details: N/A. (context: {participantId=sandbox-participant, commandId=11f3927f-152b-4b11-b2ab-ec1fe042e4f4, parties=[bigbazar]}) 
+20:44:18.962 [sandbox-akka.actor.default-dispatcher-61] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#7:0). Details: N/A. (context: {participantId=sandbox-participant, commandId=bd37f8d5-11c1-4932-8394-298298d30bd2, parties=[bigbazar]}) 
+21:29:04.497 [sandbox-akka.actor.default-dispatcher-154] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#10:0). Details: N/A. (context: {participantId=sandbox-participant, commandId=73a7d78f-38ef-4199-8bd3-62f9c78026d6, parties=[bigbazar]}) 
+21:30:10.559 [sandbox-akka.actor.default-dispatcher-159] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#12:0). Details: N/A. (context: {participantId=sandbox-participant, commandId=493c6cdb-c5ff-4e70-a668-a94d9b76e9bb, parties=[emami]}) 
+21:32:38.322 [sandbox-akka.actor.default-dispatcher-166] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: The following errors occured: node NodeId(0) (Identifier(db178fa67d6e253effc71aa182e52f4b0123cb9da7897c2807ea5f85d2c5d75a,Main:TransferOwnership)) requires authorizers bigbazar, but only emami were given. Details: N/A. (context: {participantId=sandbox-participant, commandId=9c5c08f1-da60-4f40-a97f-41c15f24e2b0, parties=[emami]}) 
+21:58:56.430 [sandbox-akka.actor.default-dispatcher-221] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#20:1). Details: N/A. (context: {participantId=sandbox-participant, commandId=06e663dd-e83a-4f16-91f8-4c6b65708cf5, parties=[bigbazar]}) 
+22:02:25.886 [sandbox-akka.actor.default-dispatcher-228] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#23:1). Details: N/A. (context: {participantId=sandbox-participant, commandId=fb3269fc-9c90-47c3-9272-09fc7cdffe40, parties=[bigbazar]}) 
+22:05:11.042 [sandbox-akka.actor.default-dispatcher-237] INFO  c.d.p.a.s.ApiSubmissionService - Submission of command rejected: INVALID_ARGUMENT: Command interpretation error in LF-DAMLe: dependency error: couldn't find contract AbsoluteContractId(#26:1). Details: N/A. (context: {participantId=sandbox-participant, commandId=7fc8ee97-a366-41e9-a27a-46c4b256e445, parties=[bigbazar]}) 

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.zipkin.reporter:zipkin-reporter:1.0.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.zipkin.reporter/zipkin-reporter/jars/zipkin-reporter-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.zipkin.reporter/zipkin-reporter/srcs/zipkin-reporter-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

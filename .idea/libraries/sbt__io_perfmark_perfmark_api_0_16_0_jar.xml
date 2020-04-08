@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.perfmark:perfmark-api:0.16.0:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.perfmark/perfmark-api/jars/perfmark-api-0.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.perfmark/perfmark-api/srcs/perfmark-api-0.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

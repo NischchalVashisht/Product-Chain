@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.digitalasset:daml-lf-value-java-proto:100.13.55:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.digitalasset/daml-lf-value-java-proto/jars/daml-lf-value-java-proto-100.13.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.digitalasset/daml-lf-value-java-proto/srcs/daml-lf-value-java-proto-100.13.55-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
