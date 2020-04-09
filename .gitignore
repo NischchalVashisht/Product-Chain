@@ -1,1 +1,6 @@
 /.daml
+sandbox.log
+/scala-codegen
+target
+/.idea
+
