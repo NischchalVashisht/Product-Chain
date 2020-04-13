@@ -38,3 +38,5 @@ Run test scenarios using
 sbt "application/runMain com.knoldus.ProductMain localhost 6865"
 
 ```
+## Flowchart
+![Untitled Diagram](https://user-images.githubusercontent.com/47364503/79156820-2cc63900-7df1-11ea-816d-ae8ee8e37b55.png)
