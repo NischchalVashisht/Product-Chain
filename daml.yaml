@@ -1,5 +1,5 @@
 sdk-version: 0.13.55
-name: Product
+name: product
 source: daml
 init-script: Setup:initialize
 parties:
